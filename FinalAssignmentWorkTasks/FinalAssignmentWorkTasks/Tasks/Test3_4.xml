@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TaskId>4</TaskId>
+  <TaskName>Test3</TaskName>
+  <TaskDescription>ffff</TaskDescription>
+  <TimeDue>2024-01-25T00:00:00</TimeDue>
+  <AssignedEmployees>
+    <Employee>
+      <Id>17</Id>
+      <Email>rmussettig@reddit.com</Email>
+      <FirstName>Laïla</FirstName>
+      <LastName>Mussetti</LastName>
+      <Department>Sales</Department>
+    </Employee>
+  </AssignedEmployees>
+  <AssignedDepartments>
+    <Department>Sales</Department>
+  </AssignedDepartments>
+  <Status>Open</Status>
+</Task>

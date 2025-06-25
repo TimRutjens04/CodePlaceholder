@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TaskId>20</TaskId>
+  <TaskName>Test1</TaskName>
+  <TaskDescription>Can i correctly update the title and description?</TaskDescription>
+  <TimeDue>2024-01-21T00:00:00</TimeDue>
+  <Tasks />
+  <AssignedEmployees>
+    <Employee>
+      <Id>16</Id>
+      <Email>rpickoverf@europa.eu</Email>
+      <FirstName>Miléna</FirstName>
+      <LastName>Pickover</LastName>
+      <Department>Sales</Department>
+      <AssignedTasks />
+    </Employee>
+    <Employee>
+      <Id>29</Id>
+      <Email>nrogerons@nationalgeographic.com</Email>
+      <FirstName>Anaé</FirstName>
+      <LastName>Rogeron</LastName>
+      <Department>Sales</Department>
+      <AssignedTasks />
+    </Employee>
+    <Employee>
+      <Id>41</Id>
+      <Email>jmartinetto14@cbsnews.com</Email>
+      <FirstName>Noémie</FirstName>
+      <LastName>Martinetto</LastName>
+      <Department>Marketing</Department>
+      <AssignedTasks />
+    </Employee>
+  </AssignedEmployees>
+  <AssignedDepartments>
+    <Department>Marketing</Department>
+    <Department>Sales</Department>
+  </AssignedDepartments>
+  <Status>Blocked</Status>
+</Task>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TaskId>23</TaskId>
+  <TaskName>CheckForDBAfterNonStatic</TaskName>
+  <TaskDescription>Title</TaskDescription>
+  <TimeDue>2024-02-02T00:00:00</TimeDue>
+  <AssignedEmployees>
+    <Employee>
+      <Id>24</Id>
+      <Email>tanticn@pen.io</Email>
+      <FirstName>Véronique</FirstName>
+      <LastName>Antic</LastName>
+      <Department>Marketing</Department>
+    </Employee>
+    <Employee>
+      <Id>33</Id>
+      <Email>vmaxtedw@meetup.com</Email>
+      <FirstName>Maëlys</FirstName>
+      <LastName>Maxted</LastName>
+      <Department>Human_Resources</Department>
+    </Employee>
+  </AssignedEmployees>
+  <AssignedDepartments>
+    <Department>Human_Resources</Department>
+    <Department>Marketing</Department>
+  </AssignedDepartments>
+  <Status>Open</Status>
+</Task>

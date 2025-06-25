@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TaskId>1</TaskId>
+  <TaskName>TestPostCleanup</TaskName>
+  <TaskDescription>fdsffdf</TaskDescription>
+  <TimeDue>2024-01-20T00:00:00</TimeDue>
+  <AssignedEmployees>
+    <Employee>
+      <Id>17</Id>
+      <Email>rmussettig@reddit.com</Email>
+      <FirstName>Laïla</FirstName>
+      <LastName>Mussetti</LastName>
+      <Department>Sales</Department>
+    </Employee>
+    <Employee>
+      <Id>51</Id>
+      <Email>rbraitling1e@friendfeed.com</Email>
+      <FirstName>André</FirstName>
+      <LastName>Braitling</LastName>
+      <Department>Sales</Department>
+    </Employee>
+  </AssignedEmployees>
+  <AssignedDepartments>
+    <Department>Sales</Department>
+  </AssignedDepartments>
+  <Status>In_Progress</Status>
+</Task>

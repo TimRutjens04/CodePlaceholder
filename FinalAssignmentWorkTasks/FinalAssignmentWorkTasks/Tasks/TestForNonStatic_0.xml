@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TaskId>0</TaskId>
+  <TaskName>TestForNonStatic</TaskName>
+  <TaskDescription>BlaBlala</TaskDescription>
+  <TimeDue>2024-01-31T00:00:00</TimeDue>
+  <AssignedEmployees>
+    <Employee>
+      <Id>44</Id>
+      <Email>yprawle17@shop-pro.jp</Email>
+      <FirstName>Loïc</FirstName>
+      <LastName>Prawle</LastName>
+      <Department>Sales</Department>
+    </Employee>
+  </AssignedEmployees>
+  <AssignedDepartments>
+    <Department>Sales</Department>
+  </AssignedDepartments>
+  <Status>Open</Status>
+</Task>

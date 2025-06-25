@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+apscheduler = "*"
+asyncio = "*"
+playwright = "*"
+http-request-randomizer = "*"
+motor = "*"
+python-dotenv = "*"
+requests = "*"
+pytest = "*"
+pytest-asyncio = "*"
+aiohttp = "*"
+pytest-playwright = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"

@@ -1,0 +1,8 @@
+i am cold;
+start coffeemachine;
+turn light on;
+update morning light off;
+update morning coffeemachine off;
+it is morning;
+update morning coffeemachine on;
+it is morning;
